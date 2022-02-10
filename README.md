@@ -12,7 +12,7 @@
 [Kaggle-Best Countries and Cities for Start-ups](https://www.kaggle.com/ramjasmaurya/best-cities-and-countries-for-startups-in-2021)
 
 ### Topic 3: Consumer Goods
-<img src="https://image.freepik.com/free-vector/girls-choosing-modern-clothes-store-flat-illustration_74855-18340.jpg?w=1060" width="500" height="200">
+<img src="https://image.freepik.com/free-vector/girls-choosing-modern-clothes-store-flat-illustration_74855-18340.jpg?w=1060" width="450" height="200">
 
 #### Project 1: Car Buyers
 [Kaggle-Car Buyers of various Manufacturers and Models](https://www.kaggle.com/brijlaldhankour/car-buyers)
